@@ -1,3 +1,4 @@
 # first-repository
-this is ,y first git repository
-author  - pranjal rathore
+this is my first git repository
+<br>
+author - pranjal rathore
